@@ -19,11 +19,11 @@ winpty vue.cmd create project-name
 
 构建过程选择
 
-? Please pick a preset: `Manually select features`
-? Check the features needed for your project: 必选`Linter / Formatter`
-? Pick a linter / formatter config: `ESLint + Prettier`
-? Pick additional lint features: 必选`Lint and fix on commit`
-? Where do you prefer placing config for Babel, PostCSS, ESLint, etc.? `In dedicated config files`
+- ? Please pick a preset: `Manually select features`
+- ? Check the features needed for your project: 必选`Linter / Formatter`
+- ? Pick a linter / formatter config: `ESLint + Prettier`
+- ? Pick additional lint features: 必选`Lint and fix on commit`
+- ? Where do you prefer placing config for Babel, PostCSS, ESLint, etc.? `In dedicated config files`
 
 ## 项目配置文件
 
