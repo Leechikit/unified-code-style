@@ -68,6 +68,12 @@ module.exports = {
 }
 ```
 
+## 安装编辑器插件
+
+vscode 编辑器中，文件 -> 首选项 -> 扩展
+
+搜索安装 ESlint、 Prettier 和 Vetur
+
 ## 修改编辑器配置
 
 vscode 编辑器中，文件 -> 首选项 -> 设置 -> 输入 eslint -> 点击在 settings.json 中编辑
