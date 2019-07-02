@@ -38,9 +38,9 @@ yarn add --dev eslint babel-eslint eslint-plugin-vue
 安装 perttier 相关包
 
 ```
-npm install --save-dev eslint-plugin-prettier eslint-config-prettier
+npm install --save-dev @vue/eslint-config-prettier
 // or
-yarn add --dev eslint-plugin-prettier eslint-config-prettier
+yarn add --dev @vue/eslint-config-prettier
 ```
 
 安装 git hook 相关包
